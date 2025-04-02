@@ -1,1 +1,37 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap");
 @import "tailwindcss";
+
+@theme {
+    --color-gray-550: #a1a1a1;
+    --color-gray-150: #d9d9d9;
+    --color-gray-560: #e6e6e6;
+}
+
+body {
+    font-family: "Inter", sans-serif;
+}
+
+.swiper-pagination {
+    position: static;
+    margin-top: 24px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 12px;
+}
+
+.swiper-pagination-bullet {
+    width: 8px;
+    height: 8px;
+    background-color: #e6e6e6;
+    opacity: 1;
+    border-radius: 50%;
+    transition: all 0.3s ease;
+    cursor: pointer;
+}
+
+.swiper-pagination-bullet-active {
+    background-color: #1e1e1e;
+    width: 8px;
+    height: 8px;
+}
