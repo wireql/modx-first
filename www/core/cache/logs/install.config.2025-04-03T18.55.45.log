@@ -1,0 +1,14 @@
+[2025-04-03 18:55:50] (ERROR @ /var/www/html/core/vendor/xpdo/xpdo/src/xPDO/Transport/xPDOObjectVehicle.php : 193) Error HY000 executing statement:
+INSERT INTO `system_settings` (`key`, `xtype`, `namespace`, `area`) VALUES ('photo_profile_source', 'modx-combo-source', 'core', 'manager')
+Array
+(
+    [0] => HY000
+    [1] => 1364
+    [2] => Field 'value' doesn't have a default value
+)
+
+[2025-04-03 18:55:50] (ERROR @ /var/www/html/core/vendor/xpdo/xpdo/src/xPDO/Transport/xPDOObjectVehicle.php : 77) Error saving vehicle object of class MODX\Revolution\modSystemSetting; criteria: Array
+(
+    [key] => photo_profile_source
+)
+

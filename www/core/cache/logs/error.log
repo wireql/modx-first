@@ -1,0 +1,46 @@
+[2025-04-03 18:56:53] (ERROR @ /var/www/html/core/src/Revolution/Processors/System/Dashboard/Widget/Feed.php : 87) cURL error 28: Connection timed out after 10001 milliseconds
+[2025-04-03 18:56:53] (ERROR @ /var/www/html/core/src/Revolution/Processors/System/Dashboard/Widget/Feed.php : 87) cURL error 28: Connection timed out after 10004 milliseconds
+[2025-04-03 19:12:48] (ERROR @ /var/www/html/core/lexicon/ru/access.inc.php : 179) PHP warning: Undefined variable $lang
+[2025-04-03 19:12:48] (ERROR @ /var/www/html/core/lexicon/ru/access.inc.php : 179) PHP warning: Trying to access array offset on value of type null
+[2025-04-03 19:12:48] (ERROR @ /var/www/html/core/lexicon/ru/access.inc.php : 180) PHP warning: Undefined variable $lang
+[2025-04-03 19:12:48] (ERROR @ /var/www/html/core/lexicon/ru/access.inc.php : 180) PHP warning: Trying to access array offset on value of type null
+[2025-04-03 19:53:10] (ERROR @ /var/www/html/core/lexicon/ru/access.inc.php : 179) PHP warning: Undefined variable $lang
+[2025-04-03 19:53:10] (ERROR @ /var/www/html/core/lexicon/ru/access.inc.php : 179) PHP warning: Trying to access array offset on value of type null
+[2025-04-03 19:53:10] (ERROR @ /var/www/html/core/lexicon/ru/access.inc.php : 180) PHP warning: Undefined variable $lang
+[2025-04-03 19:53:10] (ERROR @ /var/www/html/core/lexicon/ru/access.inc.php : 180) PHP warning: Trying to access array offset on value of type null
+[2025-04-03 20:00:37] (ERROR @ /var/www/html/core/src/Revolution/Processors/System/Dashboard/Widget/Feed.php : 87) cURL error 28: Connection timed out after 10000 milliseconds
+[2025-04-03 20:00:38] (ERROR @ /var/www/html/core/src/Revolution/Processors/System/Dashboard/Widget/Feed.php : 87) cURL error 28: Connection timed out after 10000 milliseconds
+[2025-04-03 20:02:28] (ERROR @ /var/www/html/core/src/Revolution/Processors/System/Dashboard/Widget/Feed.php : 87) cURL error 28: Connection timed out after 10000 milliseconds
+[2025-04-03 20:02:28] (ERROR @ /var/www/html/core/src/Revolution/Processors/System/Dashboard/Widget/Feed.php : 87) cURL error 28: Connection timed out after 10000 milliseconds
+[2025-04-03 20:02:32] (ERROR @ /var/www/html/core/src/Revolution/Processors/System/Dashboard/Widget/Feed.php : 87) cURL error 28: Connection timed out after 10000 milliseconds
+[2025-04-03 20:02:33] (ERROR @ /var/www/html/core/src/Revolution/Processors/System/Dashboard/Widget/Feed.php : 87) cURL error 28: Connection timed out after 10000 milliseconds
+[2025-04-03 20:05:30] (ERROR @ /var/www/html/core/src/Revolution/Processors/System/Dashboard/Widget/Feed.php : 87) cURL error 28: Connection timed out after 10000 milliseconds
+[2025-04-03 20:05:31] (ERROR @ /var/www/html/core/src/Revolution/Processors/System/Dashboard/Widget/Feed.php : 87) cURL error 28: Connection timed out after 10000 milliseconds
+[2025-04-03 20:05:43] (ERROR @ /var/www/html/core/src/Revolution/Processors/System/Dashboard/Widget/Feed.php : 87) cURL error 28: Connection timed out after 10000 milliseconds
+[2025-04-03 20:05:44] (ERROR @ /var/www/html/core/src/Revolution/Processors/System/Dashboard/Widget/Feed.php : 87) cURL error 28: Connection timed out after 10000 milliseconds
+[2025-04-03 20:06:13] (ERROR @ /var/www/html/core/src/Revolution/Processors/System/Dashboard/Widget/Feed.php : 87) cURL error 28: Connection timed out after 10000 milliseconds
+[2025-04-03 20:06:13] (ERROR @ /var/www/html/core/src/Revolution/Processors/System/Dashboard/Widget/Feed.php : 87) cURL error 28: Connection timed out after 10001 milliseconds
+[2025-04-03 20:06:21] (ERROR @ /var/www/html/core/src/Revolution/Processors/System/Dashboard/Widget/Feed.php : 87) cURL error 28: Connection timed out after 10002 milliseconds
+[2025-04-03 20:06:23] (ERROR @ /var/www/html/core/src/Revolution/Processors/System/Dashboard/Widget/Feed.php : 87) cURL error 28: Connection timed out after 10001 milliseconds
+[2025-04-03 20:07:39] (ERROR @ /var/www/html/core/src/Revolution/Processors/System/Dashboard/Widget/Feed.php : 87) cURL error 28: Connection timed out after 10000 milliseconds
+[2025-04-03 20:07:40] (ERROR @ /var/www/html/core/src/Revolution/Processors/System/Dashboard/Widget/Feed.php : 87) cURL error 28: Connection timed out after 10000 milliseconds
+[2025-04-03 20:13:15] (ERROR @ /var/www/html/core/src/Revolution/Transport/modTransportPackage.php : 756) PHP warning: A non-numeric value encountered
+[2025-04-03 20:13:44] (ERROR @ /var/www/html/core/src/Revolution/Processors/System/Dashboard/Widget/Feed.php : 87) cURL error 28: Connection timed out after 10009 milliseconds
+[2025-04-03 20:13:44] (ERROR @ /var/www/html/core/src/Revolution/Processors/System/Dashboard/Widget/Feed.php : 87) cURL error 28: Connection timed out after 10008 milliseconds
+[2025-04-03 20:14:00] (ERROR @ /var/www/html/core/src/Revolution/Processors/System/Dashboard/Widget/Feed.php : 87) cURL error 28: Connection timed out after 10000 milliseconds
+[2025-04-03 20:14:00] (ERROR @ /var/www/html/core/src/Revolution/Processors/System/Dashboard/Widget/Feed.php : 87) cURL error 28: SSL connection timeout
+[2025-04-03 20:20:09] (ERROR @ /var/www/html/manager/controllers/default/resource/data.class.php : 99) PHP warning: A non-numeric value encountered
+[2025-04-03 20:26:46] (ERROR @ /var/www/html/core/cache/includes/elements/modx/revolution/modplugin/1.include.cache.php : 78) PHP warning: Undefined property: ElementChunkCreateManagerController::$chunk
+[2025-04-03 20:27:34] (ERROR @ /var/www/html/core/cache/includes/elements/modx/revolution/modplugin/1.include.cache.php : 78) PHP warning: Undefined property: ElementChunkCreateManagerController::$chunk
+[2025-04-03 20:41:33] (ERROR @ /var/www/html/core/src/Revolution/Processors/System/Dashboard/Widget/Feed.php : 87) cURL error 28: Connection timed out after 10000 milliseconds
+[2025-04-03 20:41:33] (ERROR @ /var/www/html/core/src/Revolution/Processors/System/Dashboard/Widget/Feed.php : 87) cURL error 28: Connection timed out after 10000 milliseconds
+[2025-04-03 21:17:58] (ERROR @ /var/www/html/core/src/Revolution/Processors/Element/TemplateVar/Configs/mgr/inputproperties/number.php : 25) PHP warning: Undefined array key "allowDecimals"
+[2025-04-03 21:17:58] (ERROR @ /var/www/html/core/src/Revolution/Processors/Element/TemplateVar/Configs/mgr/inputproperties/number.php : 25) PHP warning: Undefined array key "allowDecimals"
+[2025-04-03 21:17:58] (ERROR @ /var/www/html/core/src/Revolution/Processors/Element/TemplateVar/Configs/mgr/inputproperties/number.php : 26) PHP warning: Undefined array key "strictDecimalPrecision"
+[2025-04-03 21:17:58] (ERROR @ /var/www/html/core/src/Revolution/Processors/Element/TemplateVar/Configs/mgr/inputproperties/number.php : 26) PHP warning: Undefined array key "strictDecimalPrecision"
+[2025-04-03 21:17:58] (ERROR @ /var/www/html/core/src/Revolution/Processors/Element/TemplateVar/Configs/mgr/inputproperties/number.php : 32) PHP warning: Undefined array key "minValue"
+[2025-04-03 21:17:58] (ERROR @ /var/www/html/core/src/Revolution/Processors/Element/TemplateVar/Configs/mgr/inputproperties/number.php : 36) PHP warning: Undefined array key "maxValue"
+[2025-04-03 21:18:30] (ERROR @ /var/www/html/core/src/Revolution/Processors/Element/TemplateVar/Configs/mgr/inputproperties/number.php : 26) PHP warning: Undefined array key "strictDecimalPrecision"
+[2025-04-03 21:18:30] (ERROR @ /var/www/html/core/src/Revolution/Processors/Element/TemplateVar/Configs/mgr/inputproperties/number.php : 26) PHP warning: Undefined array key "strictDecimalPrecision"
+[2025-04-03 21:19:50] (ERROR @ /var/www/html/core/src/Revolution/Processors/Element/TemplateVar/Configs/mgr/inputproperties/number.php : 26) PHP warning: Undefined array key "strictDecimalPrecision"
+[2025-04-03 21:19:50] (ERROR @ /var/www/html/core/src/Revolution/Processors/Element/TemplateVar/Configs/mgr/inputproperties/number.php : 26) PHP warning: Undefined array key "strictDecimalPrecision"
