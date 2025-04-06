@@ -28,6 +28,8 @@ services:
             MYSQL_DATABASE: modx_db
             MYSQL_USER: modx_user
             MYSQL_PASSWORD: modx_pass
+        ports:
+            - "3306:3306"
         volumes:
             - mysql_data:/var/lib/mysql
 volumes:

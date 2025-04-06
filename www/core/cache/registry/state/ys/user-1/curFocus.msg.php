@@ -1,2 +1,2 @@
 <?php
-return 'modx-resource-longtitle';
+return 'modx-resource-deleted';

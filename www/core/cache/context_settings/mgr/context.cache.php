@@ -409,6 +409,8 @@ if ($script) {
             'view_unpublished' => true,
             'view_user' => true,
             'workspaces' => true,
+            'formit' => true,
+            'formit_encryptions' => true,
           ),
         ),
       ),

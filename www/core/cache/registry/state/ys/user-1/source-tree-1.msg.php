@@ -1,2 +1,2 @@
 <?php
-return '/Filesystem/assets/templates/js';
+return '/Filesystem/assets/templates/css';

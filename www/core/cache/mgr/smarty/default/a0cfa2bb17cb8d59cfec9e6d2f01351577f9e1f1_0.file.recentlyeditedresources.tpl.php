@@ -1,18 +1,18 @@
 <?php
-/* Smarty version 4.5.5, created on 2025-04-03 18:56:42
+/* Smarty version 4.5.5, created on 2025-04-04 06:44:23
   from '/var/www/html/manager/templates/default/dashboard/recentlyeditedresources.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '4.5.5',
-  'unifunc' => 'content_67eed9ea927285_18132807',
+  'unifunc' => 'content_67ef7fc74c0787_42528244',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
     'a0cfa2bb17cb8d59cfec9e6d2f01351577f9e1f1' => 
     array (
       0 => '/var/www/html/manager/templates/default/dashboard/recentlyeditedresources.tpl',
-      1 => 1743578432,
+      1 => 1743747378,
       2 => 'file',
     ),
   ),
@@ -20,7 +20,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_67eed9ea927285_18132807 (Smarty_Internal_Template $_smarty_tpl) {
+function content_67ef7fc74c0787_42528244 (Smarty_Internal_Template $_smarty_tpl) {
 ?><p><?php echo $_smarty_tpl->tpl_vars['_lang']->value['activity_message'];?>
 </p>
 <br/>

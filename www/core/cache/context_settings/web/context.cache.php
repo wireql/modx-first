@@ -4,23 +4,24 @@
   ),
   'aliasMap' => 
   array (
-    'index.html' => 1,
-    'main/' => 3,
-    'articles/' => 4,
-    'февральское-поступление.html' => 5,
-    'январское-поступление.html' => 6,
-    'декабрьское-поступление.html' => 7,
-    'services/' => 8,
-    'настройка-цифровой-техники.html' => 9,
+    'index/' => 1,
+    'index/articles/' => 4,
+    'index/articles/февральское-поступление.html' => 5,
+    'index/articles/январское-поступление.html' => 6,
+    'index/articles/декабрьское-поступление.html' => 7,
+    'index/services/' => 8,
+    'index/services/настройка-цифровой-техники.html' => 9,
+    'index/services/онлайн-помощь.html' => 10,
+    'index/services/установка-бытовой-техники.html' => 11,
+    'index/services/получите-бесплатную-диагностику.html' => 12,
   ),
   'resourceMap' => 
   array (
     0 => 
     array (
       0 => 1,
-      1 => 3,
     ),
-    3 => 
+    1 => 
     array (
       0 => 4,
       1 => 8,
@@ -34,6 +35,9 @@
     8 => 
     array (
       0 => 9,
+      1 => 10,
+      2 => 11,
+      3 => 12,
     ),
   ),
   'webLinkMap' => 
@@ -252,6 +256,8 @@ if ($script) {
           'policy' => 
           array (
             'load' => true,
+            'formit' => true,
+            'formit_encryptions' => false,
           ),
         ),
         1 => 
@@ -443,6 +449,8 @@ if ($script) {
             'view_unpublished' => true,
             'view_user' => true,
             'workspaces' => true,
+            'formit' => true,
+            'formit_encryptions' => true,
           ),
         ),
       ),

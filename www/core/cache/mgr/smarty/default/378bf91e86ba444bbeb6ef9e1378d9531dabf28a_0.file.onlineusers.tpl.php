@@ -1,18 +1,18 @@
 <?php
-/* Smarty version 4.5.5, created on 2025-04-03 18:56:42
+/* Smarty version 4.5.5, created on 2025-04-04 06:44:23
   from '/var/www/html/manager/templates/default/dashboard/onlineusers.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '4.5.5',
-  'unifunc' => 'content_67eed9ea9074f6_87339102',
+  'unifunc' => 'content_67ef7fc73a0f98_72971411',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
     '378bf91e86ba444bbeb6ef9e1378d9531dabf28a' => 
     array (
       0 => '/var/www/html/manager/templates/default/dashboard/onlineusers.tpl',
-      1 => 1743578432,
+      1 => 1743747378,
       2 => 'file',
     ),
   ),
@@ -20,7 +20,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_67eed9ea9074f6_87339102 (Smarty_Internal_Template $_smarty_tpl) {
+function content_67ef7fc73a0f98_72971411 (Smarty_Internal_Template $_smarty_tpl) {
 ?><p><?php echo $_smarty_tpl->tpl_vars['_lang']->value['onlineusers_message'];?>
 </p>
 <br/>

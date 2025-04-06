@@ -1,18 +1,18 @@
 <?php
-/* Smarty version 4.5.5, created on 2025-04-03 18:56:42
+/* Smarty version 4.5.5, created on 2025-04-04 06:44:23
   from '/var/www/html/manager/templates/default/dashboard/updates.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '4.5.5',
-  'unifunc' => 'content_67eed9ea8ec277_94751339',
+  'unifunc' => 'content_67ef7fc72e05d7_93901786',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
     'ef64addd37cb0bef483fa5ecc270fc9468d20739' => 
     array (
       0 => '/var/www/html/manager/templates/default/dashboard/updates.tpl',
-      1 => 1743578432,
+      1 => 1743747378,
       2 => 'file',
     ),
   ),
@@ -20,7 +20,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_67eed9ea8ec277_94751339 (Smarty_Internal_Template $_smarty_tpl) {
+function content_67ef7fc72e05d7_93901786 (Smarty_Internal_Template $_smarty_tpl) {
 ?><div id="modx-grid-updates" class="updates-widget">
     <div class="table-wrapper">
         <table class="table">
