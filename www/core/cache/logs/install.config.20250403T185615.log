@@ -1,0 +1,2 @@
+[2025-04-03 18:56:15] (ERROR @ /var/www/html/core/cache/setup/smarty/0f0f3afa5d3d0bbbfb777965f4539a275a2ea6f2_0.file.complete.tpl.php : 30) PHP warning: Undefined array key "errors"
+[2025-04-03 18:56:15] (ERROR @ /var/www/html/core/cache/setup/smarty/0f0f3afa5d3d0bbbfb777965f4539a275a2ea6f2_0.file.complete.tpl.php : 30) PHP warning: Attempt to read property "value" on null
